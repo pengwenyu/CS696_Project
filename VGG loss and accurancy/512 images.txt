@@ -1,0 +1,77 @@
+===epoch 0=====
+2020-05-12 09:27:51.910494: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library cublas64_10.dll
+2020-05-12 09:27:52.228711: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library cudnn64_7.dll
+2020-05-12 09:27:53.564174: W tensorflow/stream_executor/gpu/redzone_allocator.cc:312] Internal: Invoking GPU asm compilation is supported on Cuda non-Windows platforms only
+Relying on driver to perform ptx compilation. This message will be only logged once.
+2020-05-12 09:27:53.605918: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.03GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2020-05-12 09:27:53.606513: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.03GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2020-05-12 09:27:53.688999: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.82GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2020-05-12 09:27:53.689599: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.82GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2020-05-12 09:27:53.848577: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.74GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2020-05-12 09:27:53.849192: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.74GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2020-05-12 09:27:53.849823: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.54GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2020-05-12 09:27:53.850399: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.54GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2020-05-12 09:27:53.940246: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.31GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2020-05-12 09:27:53.940966: W tensorflow/core/common_runtime/bfc_allocator.cc:243] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.31GiB with freed_by_count=0. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 8.895880699157715 s
+====epoch 1=====
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 4.138897657394409 s
+====epoch 2=====
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 4.437974214553833 s
+====epoch 3=====
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 4.332545042037964 s
+====epoch 4=====
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 4.431544065475464 s
+====epoch 5=====
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 4.2809975147247314 s
+====epoch 6=====
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 4.407994747161865 s
+====epoch 7=====
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 4.425658464431763 s
+====epoch 8=====
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 4.537175416946411 s
+====epoch 9=====
+   train loss: 442.206217
+   train acc: 0.000000
+   validation loss: 442.206217
+   validation acc: 0.000000
+for one epoch the time cost is 4.519575595855713 s
+the total time is 48.40824341773987
+
+Process finished with exit code 0

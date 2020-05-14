@@ -1,0 +1,123 @@
+====epoch 0=====
+   train loss: 389.356886
+   train acc: 0.720282
+   validation loss: 21.061563
+   validation acc: 0.864375
+for one epoch the time cost is 63.573370933532715 s
+====epoch 1=====
+   train loss: 16.510213
+   train acc: 0.895527
+   validation loss: 13.159170
+   validation acc: 0.911875
+for one epoch the time cost is 64.70070672035217 s
+====epoch 2=====
+   train loss: 10.251193
+   train acc: 0.938266
+   validation loss: 10.859702
+   validation acc: 0.938125
+for one epoch the time cost is 64.4777307510376 s
+====epoch 3=====
+   train loss: 7.839750
+   train acc: 0.954350
+   validation loss: 11.646736
+   validation acc: 0.937500
+for one epoch the time cost is 64.64368653297424 s
+====epoch 4=====
+   train loss: 6.186564
+   train acc: 0.963695
+   validation loss: 14.747233
+   validation acc: 0.915000
+for one epoch the time cost is 64.54295039176941 s
+====epoch 5=====
+   train loss: 4.097489
+   train acc: 0.977022
+   validation loss: 8.214503
+   validation acc: 0.959375
+for one epoch the time cost is 65.71321821212769 s
+====epoch 6=====
+   train loss: 3.777697
+   train acc: 0.978401
+   validation loss: 10.682131
+   validation acc: 0.953750
+for one epoch the time cost is 64.82857275009155 s
+====epoch 7=====
+   train loss: 2.739512
+   train acc: 0.984069
+   validation loss: 9.721338
+   validation acc: 0.964375
+for one epoch the time cost is 64.65633773803711 s
+====epoch 8=====
+   train loss: 1.805000
+   train acc: 0.990349
+   validation loss: 11.773679
+   validation acc: 0.951875
+for one epoch the time cost is 64.40262532234192 s
+====epoch 9=====
+   train loss: 7.166302
+   train acc: 0.957108
+   validation loss: 10.406633
+   validation acc: 0.952500
+for one epoch the time cost is 64.56740045547485 s
+====epoch 10=====
+   train loss: 3.992643
+   train acc: 0.977328
+   validation loss: 10.175798
+   validation acc: 0.951875
+for one epoch the time cost is 64.38196754455566 s
+====epoch 11=====
+   train loss: 2.091749
+   train acc: 0.989124
+   validation loss: 12.706270
+   validation acc: 0.952500
+for one epoch the time cost is 64.4535346031189 s
+====epoch 12=====
+   train loss: 1.210817
+   train acc: 0.992953
+   validation loss: 11.679839
+   validation acc: 0.960000
+for one epoch the time cost is 64.53473377227783 s
+====epoch 13=====
+   train loss: 0.875401
+   train acc: 0.996477
+   validation loss: 14.603079
+   validation acc: 0.955625
+for one epoch the time cost is 65.16940975189209 s
+====epoch 14=====
+   train loss: 2.038175
+   train acc: 0.988205
+   validation loss: 14.079750
+   validation acc: 0.935000
+for one epoch the time cost is 64.43640804290771 s
+====epoch 15=====
+   train loss: 3.054781
+   train acc: 0.981924
+   validation loss: 14.964751
+   validation acc: 0.945000
+for one epoch the time cost is 64.51174974441528 s
+====epoch 16=====
+   train loss: 1.025268
+   train acc: 0.994792
+   validation loss: 14.164863
+   validation acc: 0.955625
+for one epoch the time cost is 64.3279857635498 s
+====epoch 17=====
+   train loss: 0.995088
+   train acc: 0.994638
+   validation loss: 15.540380
+   validation acc: 0.957500
+for one epoch the time cost is 64.46783995628357 s
+====epoch 18=====
+   train loss: 1.032445
+   train acc: 0.994332
+   validation loss: 16.876176
+   validation acc: 0.947500
+for one epoch the time cost is 65.75215125083923 s
+====epoch 19=====
+   train loss: 1.896937
+   train acc: 0.990962
+   validation loss: 14.469082
+   validation acc: 0.951875
+for one epoch the time cost is 64.60639691352844 s
+the total time is 1292.7487771511078
+
+Process finished with exit code 0

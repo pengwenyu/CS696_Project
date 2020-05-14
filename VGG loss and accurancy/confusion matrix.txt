@@ -1,0 +1,2 @@
+wearglass 0 3000
+noglass 0 3000

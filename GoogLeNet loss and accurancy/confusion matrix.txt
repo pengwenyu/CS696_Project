@@ -1,0 +1,2 @@
+wear glass  2937   63
+no glass 98 2902

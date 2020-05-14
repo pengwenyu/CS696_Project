@@ -1,0 +1,2 @@
+wear glass 2607 393 0.869
+no glass    2308 692 

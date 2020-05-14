@@ -1,0 +1,67 @@
+====epoch 0=====
+2020-05-12 09:15:56.131055: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library cublas64_10.dll
+2020-05-12 09:15:56.430764: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library cudnn64_7.dll
+2020-05-12 09:15:57.712676: W tensorflow/stream_executor/gpu/redzone_allocator.cc:312] Internal: Invoking GPU asm compilation is supported on Cuda non-Windows platforms only
+Relying on driver to perform ptx compilation. This message will be only logged once.
+   train loss: 2139251.607843
+   train acc: 0.602635
+   validation loss: 728090.833333
+   validation acc: 0.705729
+for one epoch the time cost is 3.8391385078430176 s
+====epoch 1=====
+   train loss: 1087499.450980
+   train acc: 0.633272
+   validation loss: 259810.458333
+   validation acc: 0.723958
+for one epoch the time cost is 1.4494006633758545 s
+====epoch 2=====
+   train loss: 664763.215686
+   train acc: 0.675858
+   validation loss: 232950.791667
+   validation acc: 0.770833
+for one epoch the time cost is 1.4497878551483154 s
+====epoch 3=====
+   train loss: 500325.019608
+   train acc: 0.695159
+   validation loss: 225666.020833
+   validation acc: 0.701823
+for one epoch the time cost is 1.4467167854309082 s
+====epoch 4=====
+   train loss: 347430.980392
+   train acc: 0.725490
+   validation loss: 147959.416667
+   validation acc: 0.739583
+for one epoch the time cost is 1.448455810546875 s
+====epoch 5=====
+   train loss: 276845.019608
+   train acc: 0.732230
+   validation loss: 81801.125000
+   validation acc: 0.803385
+for one epoch the time cost is 1.452409267425537 s
+====epoch 6=====
+   train loss: 209908.411765
+   train acc: 0.751838
+   validation loss: 61544.416667
+   validation acc: 0.835938
+for one epoch the time cost is 1.448822021484375 s
+====epoch 7=====
+   train loss: 188881.470588
+   train acc: 0.757353
+   validation loss: 59066.791667
+   validation acc: 0.802083
+for one epoch the time cost is 1.451667070388794 s
+====epoch 8=====
+   train loss: 158150.833333
+   train acc: 0.755515
+   validation loss: 60151.052083
+   validation acc: 0.781250
+for one epoch the time cost is 1.448728322982788 s
+====epoch 9=====
+   train loss: 131974.627451
+   train acc: 0.772365
+   validation loss: 31285.411458
+   validation acc: 0.829427
+for one epoch the time cost is 1.4483888149261475 s
+the total time is 16.883515119552612
+
+Process finished with exit code 0
